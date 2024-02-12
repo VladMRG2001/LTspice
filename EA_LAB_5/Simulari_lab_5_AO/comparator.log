@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Vlad\Desktop\UPB\SEM III\EA\Laboratoare\EA LAB 5\Simulari_lab_5_AO\comparator.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Fri Jan 07 22:04:52 2022
+Total elapsed time: 0.064 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 17192
+traniter = 17142
+tranpoints = 8289
+accept = 5018
+rejected = 3271
+matrix size = 13
+fillins = 0
+solver = Normal
+Matrix Compiler1: 460 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.1/0.3
+

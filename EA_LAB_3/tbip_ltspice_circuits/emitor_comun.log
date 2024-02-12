@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Vlad\Desktop\UPB\SEM III\EA\Laboratoare\EA LAB 3\tbip_ltspice_circuits\emitor_comun.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Dec 02 16:19:36 2021
+Total elapsed time: 0.069 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3548
+traniter = 3543
+tranpoints = 1748
+accept = 1357
+rejected = 391
+matrix size = 11
+fillins = 0
+solver = Normal
+Matrix Compiler1: 610 bytes object code size  1.6/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.1/0.1
+
